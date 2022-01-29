@@ -112,3 +112,28 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+#Construction
+
+## loadData.R
+
+I have created a script to load data and optimize for only run one time and does not lost time in load data set.
+The process is running in each plot#.R script
+
+### Plot 1 
+
+![Solution Plot 1 ](plot1.png) 
+
+### Plot 2 
+
+![Solution Plot 2 ](plot2.png) 
+
+
+### Plot 3
+
+![Solution Plot 3 ](plot3.png) 
+
+### Plot 4
+
+![Solution Plot 4 ](plot4.png) 
+
+
